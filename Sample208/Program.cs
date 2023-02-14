@@ -6,16 +6,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sample207{
+namespace Sample208{
     class program{
         static void Main(string[] args){
-            Console.Write("整数を入力");
+            Console.Write("整数値を入力");
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine("a=" + a);
             if(a > 0){
                 Console.WriteLine("aは正の数です。");
-            // }else if(a < 0){
-                // Console.WriteLine("aは負の数です。");
+            }else{
+                Console.WriteLine("aは正の数ではありません。");
             }
         }
     }
