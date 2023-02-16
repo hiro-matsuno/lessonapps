@@ -1,0 +1,15 @@
+/workspaces/lessonapps/ExampleProblem301_1/bin/Debug/net7.0/ExampleProblem301_1
+/workspaces/lessonapps/ExampleProblem301_1/bin/Debug/net7.0/ExampleProblem301_1.deps.json
+/workspaces/lessonapps/ExampleProblem301_1/bin/Debug/net7.0/ExampleProblem301_1.runtimeconfig.json
+/workspaces/lessonapps/ExampleProblem301_1/bin/Debug/net7.0/ExampleProblem301_1.dll
+/workspaces/lessonapps/ExampleProblem301_1/bin/Debug/net7.0/ExampleProblem301_1.pdb
+/workspaces/lessonapps/ExampleProblem301_1/obj/Debug/net7.0/ExampleProblem301_1.csproj.AssemblyReference.cache
+/workspaces/lessonapps/ExampleProblem301_1/obj/Debug/net7.0/ExampleProblem301_1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lessonapps/ExampleProblem301_1/obj/Debug/net7.0/ExampleProblem301_1.AssemblyInfoInputs.cache
+/workspaces/lessonapps/ExampleProblem301_1/obj/Debug/net7.0/ExampleProblem301_1.AssemblyInfo.cs
+/workspaces/lessonapps/ExampleProblem301_1/obj/Debug/net7.0/ExampleProblem301_1.csproj.CoreCompileInputs.cache
+/workspaces/lessonapps/ExampleProblem301_1/obj/Debug/net7.0/ExampleProblem301_1.dll
+/workspaces/lessonapps/ExampleProblem301_1/obj/Debug/net7.0/refint/ExampleProblem301_1.dll
+/workspaces/lessonapps/ExampleProblem301_1/obj/Debug/net7.0/ExampleProblem301_1.pdb
+/workspaces/lessonapps/ExampleProblem301_1/obj/Debug/net7.0/ExampleProblem301_1.genruntimeconfig.cache
+/workspaces/lessonapps/ExampleProblem301_1/obj/Debug/net7.0/ref/ExampleProblem301_1.dll

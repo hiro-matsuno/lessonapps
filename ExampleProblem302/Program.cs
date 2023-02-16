@@ -6,19 +6,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sample304{
+namespace ExampleProblem302{
     class program{
         static void Main(string[] args){
-            Random rnd = new Random();
-            Console.WriteLine("6が出たら終了");
-            while(true){
-                int dice = rnd.Next(1,7);
-                Console.WriteLine(dice);
-                if(dice == 6){
-                    break;
+            Console.Write("正の数を入力:");
+            int n = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= n;i++ ){
+                if(n % i == 0){
+                    Console.Write("{0} ", i);
                 }
             }
-            Console.WriteLine("終了");
+            Console.WriteLine();
         }
     }
 }
