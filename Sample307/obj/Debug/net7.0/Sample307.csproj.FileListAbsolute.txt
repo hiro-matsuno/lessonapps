@@ -1,0 +1,15 @@
+/workspaces/lessonapps/Sample307/bin/Debug/net7.0/Sample307
+/workspaces/lessonapps/Sample307/bin/Debug/net7.0/Sample307.deps.json
+/workspaces/lessonapps/Sample307/bin/Debug/net7.0/Sample307.runtimeconfig.json
+/workspaces/lessonapps/Sample307/bin/Debug/net7.0/Sample307.dll
+/workspaces/lessonapps/Sample307/bin/Debug/net7.0/Sample307.pdb
+/workspaces/lessonapps/Sample307/obj/Debug/net7.0/Sample307.csproj.AssemblyReference.cache
+/workspaces/lessonapps/Sample307/obj/Debug/net7.0/Sample307.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lessonapps/Sample307/obj/Debug/net7.0/Sample307.AssemblyInfoInputs.cache
+/workspaces/lessonapps/Sample307/obj/Debug/net7.0/Sample307.AssemblyInfo.cs
+/workspaces/lessonapps/Sample307/obj/Debug/net7.0/Sample307.csproj.CoreCompileInputs.cache
+/workspaces/lessonapps/Sample307/obj/Debug/net7.0/Sample307.dll
+/workspaces/lessonapps/Sample307/obj/Debug/net7.0/refint/Sample307.dll
+/workspaces/lessonapps/Sample307/obj/Debug/net7.0/Sample307.pdb
+/workspaces/lessonapps/Sample307/obj/Debug/net7.0/Sample307.genruntimeconfig.cache
+/workspaces/lessonapps/Sample307/obj/Debug/net7.0/ref/Sample307.dll

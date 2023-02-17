@@ -1,0 +1,15 @@
+/workspaces/lessonapps/Sample310/bin/Debug/net7.0/Sample310
+/workspaces/lessonapps/Sample310/bin/Debug/net7.0/Sample310.deps.json
+/workspaces/lessonapps/Sample310/bin/Debug/net7.0/Sample310.runtimeconfig.json
+/workspaces/lessonapps/Sample310/bin/Debug/net7.0/Sample310.dll
+/workspaces/lessonapps/Sample310/bin/Debug/net7.0/Sample310.pdb
+/workspaces/lessonapps/Sample310/obj/Debug/net7.0/Sample310.csproj.AssemblyReference.cache
+/workspaces/lessonapps/Sample310/obj/Debug/net7.0/Sample310.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lessonapps/Sample310/obj/Debug/net7.0/Sample310.AssemblyInfoInputs.cache
+/workspaces/lessonapps/Sample310/obj/Debug/net7.0/Sample310.AssemblyInfo.cs
+/workspaces/lessonapps/Sample310/obj/Debug/net7.0/Sample310.csproj.CoreCompileInputs.cache
+/workspaces/lessonapps/Sample310/obj/Debug/net7.0/Sample310.dll
+/workspaces/lessonapps/Sample310/obj/Debug/net7.0/refint/Sample310.dll
+/workspaces/lessonapps/Sample310/obj/Debug/net7.0/Sample310.pdb
+/workspaces/lessonapps/Sample310/obj/Debug/net7.0/Sample310.genruntimeconfig.cache
+/workspaces/lessonapps/Sample310/obj/Debug/net7.0/ref/Sample310.dll
