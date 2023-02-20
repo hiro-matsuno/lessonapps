@@ -1,0 +1,5 @@
+/workspaces/lessonapps/Sample402/obj/Debug/net7.0/Sample402.csproj.AssemblyReference.cache
+/workspaces/lessonapps/Sample402/obj/Debug/net7.0/Sample402.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lessonapps/Sample402/obj/Debug/net7.0/Sample402.AssemblyInfoInputs.cache
+/workspaces/lessonapps/Sample402/obj/Debug/net7.0/Sample402.AssemblyInfo.cs
+/workspaces/lessonapps/Sample402/obj/Debug/net7.0/Sample402.csproj.CoreCompileInputs.cache
