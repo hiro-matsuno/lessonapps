@@ -1,5 +1,15 @@
+/workspaces/lessonapps/Sample402/bin/Debug/net7.0/Sample402
+/workspaces/lessonapps/Sample402/bin/Debug/net7.0/Sample402.deps.json
+/workspaces/lessonapps/Sample402/bin/Debug/net7.0/Sample402.runtimeconfig.json
+/workspaces/lessonapps/Sample402/bin/Debug/net7.0/Sample402.dll
+/workspaces/lessonapps/Sample402/bin/Debug/net7.0/Sample402.pdb
 /workspaces/lessonapps/Sample402/obj/Debug/net7.0/Sample402.csproj.AssemblyReference.cache
 /workspaces/lessonapps/Sample402/obj/Debug/net7.0/Sample402.GeneratedMSBuildEditorConfig.editorconfig
 /workspaces/lessonapps/Sample402/obj/Debug/net7.0/Sample402.AssemblyInfoInputs.cache
 /workspaces/lessonapps/Sample402/obj/Debug/net7.0/Sample402.AssemblyInfo.cs
 /workspaces/lessonapps/Sample402/obj/Debug/net7.0/Sample402.csproj.CoreCompileInputs.cache
+/workspaces/lessonapps/Sample402/obj/Debug/net7.0/Sample402.dll
+/workspaces/lessonapps/Sample402/obj/Debug/net7.0/refint/Sample402.dll
+/workspaces/lessonapps/Sample402/obj/Debug/net7.0/Sample402.pdb
+/workspaces/lessonapps/Sample402/obj/Debug/net7.0/Sample402.genruntimeconfig.cache
+/workspaces/lessonapps/Sample402/obj/Debug/net7.0/ref/Sample402.dll
