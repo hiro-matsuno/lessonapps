@@ -2,18 +2,17 @@
 // Console.WriteLine("Hello, World!");
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
+using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExampleProblem403{
+namespace Sample404{
     class program{
         static void Main(string[] args){
-            Bingo card = new Bingo();
-            Console.Write("ビンゴのマスの縦･横のサイズを入力:");
-            int size = int.Parse(Console.ReadLine());
-            card.Init(size);
-            card.Show();
+            Access a = new Access();
+            a.Data2 = 2;
+            a.ShowDatas();
+            Console.WriteLine("a.data1 = {0}",a.Data1);
         }
     }
 }

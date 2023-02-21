@@ -1,0 +1,15 @@
+/workspaces/lessonapps/ExampleProblem403/obj/Debug/net7.0/ExampleProblem403.csproj.AssemblyReference.cache
+/workspaces/lessonapps/ExampleProblem403/obj/Debug/net7.0/ExampleProblem403.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lessonapps/ExampleProblem403/obj/Debug/net7.0/ExampleProblem403.AssemblyInfoInputs.cache
+/workspaces/lessonapps/ExampleProblem403/obj/Debug/net7.0/ExampleProblem403.AssemblyInfo.cs
+/workspaces/lessonapps/ExampleProblem403/obj/Debug/net7.0/ExampleProblem403.csproj.CoreCompileInputs.cache
+/workspaces/lessonapps/ExampleProblem403/bin/Debug/net7.0/ExampleProblem403
+/workspaces/lessonapps/ExampleProblem403/bin/Debug/net7.0/ExampleProblem403.deps.json
+/workspaces/lessonapps/ExampleProblem403/bin/Debug/net7.0/ExampleProblem403.runtimeconfig.json
+/workspaces/lessonapps/ExampleProblem403/bin/Debug/net7.0/ExampleProblem403.dll
+/workspaces/lessonapps/ExampleProblem403/bin/Debug/net7.0/ExampleProblem403.pdb
+/workspaces/lessonapps/ExampleProblem403/obj/Debug/net7.0/ExampleProblem403.dll
+/workspaces/lessonapps/ExampleProblem403/obj/Debug/net7.0/refint/ExampleProblem403.dll
+/workspaces/lessonapps/ExampleProblem403/obj/Debug/net7.0/ExampleProblem403.pdb
+/workspaces/lessonapps/ExampleProblem403/obj/Debug/net7.0/ExampleProblem403.genruntimeconfig.cache
+/workspaces/lessonapps/ExampleProblem403/obj/Debug/net7.0/ref/ExampleProblem403.dll
