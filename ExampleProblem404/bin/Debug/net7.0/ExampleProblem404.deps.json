@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExampleProblem404/1.0.0": {
+        "runtime": {
+          "ExampleProblem404.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExampleProblem404/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
