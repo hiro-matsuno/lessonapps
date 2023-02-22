@@ -6,14 +6,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExampleProblem406{
-    class Program{
+namespace Sample406{
+    class program{
         static void Main(string[] args){
-            Bingo card = new Bingo();
-            Console.Write("ビンゴのマスの縦･横のサイズを入力:");
-            int size = int.Parse(Console.ReadLine());
-            card.Init(size);
-            card.Show();
+            Person p1,p2;
+            p1 = new Person();
+            p2 = new Person("太田隆",29);
+            p1.Name = "斉藤花子";
+            p1.Age = 18;
+            p1.ShowAgeAndName();
+            p2.ShowAgeAndName();
         }
     }
 }
