@@ -3,3 +3,13 @@
 /workspaces/lessonapps/Sample507/obj/Debug/net7.0/Sample507.AssemblyInfoInputs.cache
 /workspaces/lessonapps/Sample507/obj/Debug/net7.0/Sample507.AssemblyInfo.cs
 /workspaces/lessonapps/Sample507/obj/Debug/net7.0/Sample507.csproj.CoreCompileInputs.cache
+/workspaces/lessonapps/Sample507/bin/Debug/net7.0/Sample507
+/workspaces/lessonapps/Sample507/bin/Debug/net7.0/Sample507.deps.json
+/workspaces/lessonapps/Sample507/bin/Debug/net7.0/Sample507.runtimeconfig.json
+/workspaces/lessonapps/Sample507/bin/Debug/net7.0/Sample507.dll
+/workspaces/lessonapps/Sample507/bin/Debug/net7.0/Sample507.pdb
+/workspaces/lessonapps/Sample507/obj/Debug/net7.0/Sample507.dll
+/workspaces/lessonapps/Sample507/obj/Debug/net7.0/refint/Sample507.dll
+/workspaces/lessonapps/Sample507/obj/Debug/net7.0/Sample507.pdb
+/workspaces/lessonapps/Sample507/obj/Debug/net7.0/Sample507.genruntimeconfig.cache
+/workspaces/lessonapps/Sample507/obj/Debug/net7.0/ref/Sample507.dll
