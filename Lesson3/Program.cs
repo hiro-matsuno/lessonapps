@@ -16,7 +16,7 @@ namespace Lesson3{
             Console.Write("C = ");
             double c = double.Parse(Console.ReadLine());
             Console.WriteLine("a + b + c = {0}" , a + b + c);
-            Console.WriteLine()
+            Console.WriteLine("a,b,cの平均値={0}", a + b + c / 3.0);
         }
     }
 }
