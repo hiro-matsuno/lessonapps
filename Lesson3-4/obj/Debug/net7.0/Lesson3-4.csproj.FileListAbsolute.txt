@@ -1,0 +1,15 @@
+/workspaces/lessonapps/Lesson3-4/bin/Debug/net7.0/Lesson3-4
+/workspaces/lessonapps/Lesson3-4/bin/Debug/net7.0/Lesson3-4.deps.json
+/workspaces/lessonapps/Lesson3-4/bin/Debug/net7.0/Lesson3-4.runtimeconfig.json
+/workspaces/lessonapps/Lesson3-4/bin/Debug/net7.0/Lesson3-4.dll
+/workspaces/lessonapps/Lesson3-4/bin/Debug/net7.0/Lesson3-4.pdb
+/workspaces/lessonapps/Lesson3-4/obj/Debug/net7.0/Lesson3-4.csproj.AssemblyReference.cache
+/workspaces/lessonapps/Lesson3-4/obj/Debug/net7.0/Lesson3-4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lessonapps/Lesson3-4/obj/Debug/net7.0/Lesson3-4.AssemblyInfoInputs.cache
+/workspaces/lessonapps/Lesson3-4/obj/Debug/net7.0/Lesson3-4.AssemblyInfo.cs
+/workspaces/lessonapps/Lesson3-4/obj/Debug/net7.0/Lesson3-4.csproj.CoreCompileInputs.cache
+/workspaces/lessonapps/Lesson3-4/obj/Debug/net7.0/Lesson3-4.dll
+/workspaces/lessonapps/Lesson3-4/obj/Debug/net7.0/refint/Lesson3-4.dll
+/workspaces/lessonapps/Lesson3-4/obj/Debug/net7.0/Lesson3-4.pdb
+/workspaces/lessonapps/Lesson3-4/obj/Debug/net7.0/Lesson3-4.genruntimeconfig.cache
+/workspaces/lessonapps/Lesson3-4/obj/Debug/net7.0/ref/Lesson3-4.dll
